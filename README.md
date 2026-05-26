@@ -44,6 +44,7 @@
 
 ### 2. 複製專案
 git clone [https://github.com/您的帳號/SurgiCheck.git](https://github.com/您的帳號/SurgiCheck.git)
+
 cd SurgiCheck
 
 ### 3. 安裝相依套件
@@ -62,6 +63,8 @@ python app.py
 
 安全密碼: aiot0721
 
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/b79e4821-71f7-44fd-b72b-f6bfaeffadf5" />
+
 (註：正式上線版本將介接院內資料庫進行驗證，不保留硬編碼密碼)
 
 🗺 開發藍圖 (Roadmap)
@@ -73,3 +76,5 @@ python app.py
 [ ] Phase 3: 將模型轉換為 TensorRT 格式，部署至 NVIDIA Jetson Orin Nano。
 
 [ ] Phase 4: 整合 C310 網路鏡頭串流至 Tkinter 介面並輸出即時盤點報表。
+
+
