@@ -65,12 +65,11 @@ python app.py
 (註：正式上線版本將介接院內資料庫進行驗證，不保留硬編碼密碼)
 
 🗺 開發藍圖 (Roadmap)
-[x] Phase 1: 臨床端現代化操作介面（UI/UX）設計與實作。
 
-[ ] Phase 2: 建構手術器械影像資料集（Data Collection & Augmentation）。
+[ ] Phase 1: 建構手術器械影像資料集（Data Collection & Augmentation）。
 
-[ ] Phase 3: 訓練 YOLO 辨識模型並進行超參數優化。
+[ ] Phase 2: 訓練 YOLO 辨識模型並進行超參數優化。
 
-[ ] Phase 4: 將模型轉換為 TensorRT 格式，部署至 NVIDIA Jetson Orin Nano。
+[ ] Phase 3: 將模型轉換為 TensorRT 格式，部署至 NVIDIA Jetson Orin Nano。
 
-[ ] Phase 5: 整合 Intel RealSense 串流至 Tkinter 介面並輸出即時盤點報表。
+[ ] Phase 4: 整合 C310 網路鏡頭串流至 Tkinter 介面並輸出即時盤點報表。
