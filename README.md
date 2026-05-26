@@ -17,11 +17,13 @@
 
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/b79e4821-71f7-44fd-b72b-f6bfaeffadf5" />
 
+
 2. **直覺式器械包選擇**
    * 採用卡片式 UI 設計，提供如「一般外科基礎包」、「骨科基礎器械包」等快速選單。
    * 預防防呆機制，確保選擇目標後才能啟動邊緣主機串流。
 
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/2cc32336-4043-4cfe-9d77-221fd5646c29" />
+
 
 3. **即時 AI 盤點工作台 (待開發中)**
    * **左側視角**：即時顯示相機影像串流與 AI 辨識定界框（Bounding Box）。
@@ -29,6 +31,7 @@
    * **狀態監控**：即時顯示邊緣主機與設備的連線狀態。
 
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/42bf1524-05db-45e0-b6ff-b2080b22e22e" />
+
 
 ---
 
